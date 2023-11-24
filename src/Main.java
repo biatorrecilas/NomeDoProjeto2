@@ -6,7 +6,7 @@ public class Main {
         double media = 1;
         int faltas = 0;
         boolean comportamento = True;
-        String opcao="ETS";
+        String opcao="Cap/ETS";
 
         while (!opcao.equalsIgnoreCase("sair")) {
             try {
