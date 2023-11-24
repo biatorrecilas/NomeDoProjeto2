@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        double media;
+        double media = 1;
         int faltas ;
         boolean comportamento;
         String opcao="Bosch";
