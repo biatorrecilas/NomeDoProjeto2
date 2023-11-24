@@ -5,7 +5,7 @@ public class Main {
         Scanner input = new Scanner(System.in);
         double media = 1;
         int faltas = 0;
-        boolean comportamento;
+        boolean comportamento = True;
         String opcao="Bosch";
 
         while (!opcao.equalsIgnoreCase("sair")) {
