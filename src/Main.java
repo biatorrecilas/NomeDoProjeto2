@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double media = 1;
-        int faltas ;
+        int faltas = 0;
         boolean comportamento;
         String opcao="Bosch";
 
